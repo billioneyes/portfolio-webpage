@@ -31,3 +31,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.next/cache/webpack/client-production/0.pack
+.next/cache/webpack/server-production/0.pack
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
